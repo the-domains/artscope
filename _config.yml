@@ -1,7 +1,7 @@
 name: artscope
 favicon: null
-layout_spectrum: 0.98682
-typography_spectrum: 0.06902
+layout_spectrum: 0.39826
+typography_spectrum: 0.15231
 title: Fine Art Prints
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#1a181b'
     - '#178b95'
     - '#37b9db'
-  brandStrength: 0.1875
+  brandStrength: 0.875
   lightness: 0.625
   saturation: 0
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.25
 purpose: []

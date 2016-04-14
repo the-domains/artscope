@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-14T09:19:10.986Z'
-dateModified: '2016-04-14T09:18:30.588Z'
+description: 'null'
+datePublished: '2016-04-14T10:30:01.486Z'
+dateModified: '2016-04-14T09:19:22.561Z'
 title: 'Artscope art prints come in all shapes, sizes and formats.'
 author: []
 sourcePath: _posts/2016-04-14-artscope-fine-art-publishing.md

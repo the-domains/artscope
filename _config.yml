@@ -1,29 +1,41 @@
-name: artscope
-favicon: null
-layout_spectrum: 0.39826
-typography_spectrum: 0.15231
 title: Fine Art Prints
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.39826
+favicon: null
+name: artscope
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.125
+  saturation: 0
   brandColors:
     - '#ffffff'
     - '#5e5e5e'
     - '#1a181b'
     - '#178b95'
     - '#37b9db'
-  brandStrength: 0.125
   lightness: 0.625
-  saturation: 0
   rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.4013491
